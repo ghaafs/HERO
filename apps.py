@@ -107,7 +107,6 @@ u_comp = st.sidebar.number_input("Complication utility", value=0.50, format="%.2
 u_dead = 0.0
 
 st.sidebar.markdown("---")
-st.sidebar.caption("Tip: AUTHOR_NAME")
 
 # ==============
 # Main area - Run models
