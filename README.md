@@ -11,6 +11,8 @@ It serves as a portfolio project to demonstrate analytical, modelling, and visua
 This interactive app simulates a **Cost-Effectiveness Analysis (CEA)** comparing two hypothetical treatments.  
 The model estimates **incremental costs**, **incremental QALYs**, and the **Incremental Cost-Effectiveness Ratio (ICER)**.  
 
+You can access here: https://hero-health.streamlit.app
+
 It allows users to:
 - Adjust model parameters (costs, QALY gains, patient population size)
 - Run real-time CEA calculations
