@@ -1,7 +1,7 @@
 # HERO
 Health Economics Project
 
-# Health Economics Modelling Portfolio
+# Health Economics Modelling
 This repository contains a **cost-effectiveness modelling** simulation built with **Python** and deployed using **Streamlit**.  
 It serves as a portfolio project to demonstrate analytical, modelling, and visualization skills for health economics and outcomes research (HEOR) applications.
 
