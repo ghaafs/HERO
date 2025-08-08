@@ -11,7 +11,7 @@ import datetime
 # ==============
 st.set_page_config(page_title="HE Model: BIA + Markov CEA (Portfolio)", layout="wide")
 
-# Replace this with your real name before publishing
+# Author
 AUTHOR_NAME = "Ghany Fitriamara S"
 COPYRIGHT_YEAR = 2025
 
@@ -73,7 +73,7 @@ for a simulated national diabetes screening program in Indonesia.
 )
 
 st.sidebar.markdown("---")
-st.sidebar.header("Your ownership / copyright")
+st.sidebar.header("Ownership / copyright")
 st.sidebar.write(f"Creator: **{AUTHOR_NAME}**  \nCopyright © {COPYRIGHT_YEAR} — All rights reserved.")
 st.sidebar.markdown("**Disclaimer:** This model uses simulated/illustrative inputs. Not for clinical use.")
 
@@ -107,7 +107,7 @@ u_comp = st.sidebar.number_input("Complication utility", value=0.50, format="%.2
 u_dead = 0.0
 
 st.sidebar.markdown("---")
-st.sidebar.caption("Tip: Replace AUTHOR_NAME at top of file with your real name before sharing the app link publicly.")
+st.sidebar.caption("Tip: AUTHOR_NAME")
 
 # ==============
 # Main area - Run models
